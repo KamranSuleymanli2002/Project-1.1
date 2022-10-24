@@ -1,0 +1,215 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Raleway&display=swap');
+.desktop{
+    width: 1440px;
+    height: 2335px;
+    /* top: -127px;
+    left: -406px; */
+    background-color: #ffffff;
+    position: relative;
+}
+
+.header{
+    position: absolute;
+    min-width: 1280px;
+    min-height: 49px;
+    left: 80px;
+    top: 65px;
+    /* margin-top: 65px;
+    margin-left: 80px;
+    margin-right: 80px; */
+    margin-left: 24px;
+
+}
+.linkler {
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    width: 271px;
+    height: 19px;
+    left: 1007px;
+    top: 15px;
+}
+.yazi1{
+    width: 94px;
+    height: 49px;
+    left: 56px;
+}
+.F {
+    position: absolute;
+    width: 23.52px;
+    height: 48.63px;
+    left: 56.01px;
+    top: -10.59px;
+    color: black;
+    font-size: 50px;
+    font-family: 'Raleway';
+    font-weight: bold;
+}
+
+.y {
+    position: absolute;
+    width: 25.39px;
+    height: 49.1px;
+    left: 83.1px;
+    top: -8.78px;
+    color: black;
+    font-size: 50px;
+    font-family: 'Raleway';
+    font-weight: bold;
+}
+
+.l {
+    font-size: 50px;
+    position: absolute;
+    width: 9.87px;
+    height: 48.68px;
+    left: 105.39px;
+    top: -10.97px;
+    font-family: 'Raleway';
+    font-weight: bold;
+}
+
+.o {
+    font-size: 50px;
+    position: absolute;
+    width: 27.49px;
+    height: 27.11px;
+    left: 117.49px;
+    top: -11.4px;
+    font-family: 'Raleway';
+    font-weight: bold;
+}
+
+
+/* .fill1{
+    position: absolute;
+    width: 56px;
+    height: 46px;
+    left: 80px;
+    top: 66px;
+    float: left;
+    
+} */
+/* .path1{
+    border-width: 56px;
+    height: 17.79px;
+    top: 94.21px;
+    left: 80px;
+    background-color:#bdbafa;
+    position: absolute;
+    float: left;
+}
+.path2{
+    position: absolute;
+    border-width: 56px;
+    height: 17.79px;
+    left: 80px;
+    top: 84.5px;
+    background-color: #bdbafa;
+    float: left;
+}
+.path3{
+    position: absolute;
+    width: 35.75px;
+    height: 16.79px;
+    left: 90.08px;
+    top: 70.79px;
+    background-color: #bdbafa;
+    float: left;
+    border-width: 35.75px;
+    
+}
+.path4{
+    position: absolute;
+    border-width: 56px;
+    height: 26.38px;
+    left: 80px;
+    top: 66px;
+    background-color: #bdbafa;
+    float: left;
+} */
+.hero{
+    position: absolute;
+    width: 1280px;
+    height: 474px;
+    left: 80px;
+    top: 239px;
+    margin-top: -278px;
+}
+.yazi{
+    width: 525px;
+    height: 72px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.53125px;
+    text-align: left;
+    color: #07043B;
+    margin-left: 64px;
+    margin-top: 15px;
+
+}
+.wekil{
+    position: absolute;
+    left: 720px;
+    top: 239px;
+}
+.yazi2{
+    width: 606px;
+    height: 120px;
+    font-family: Raleway;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #07043B;
+    margin-top: 300px;
+    margin-left: 65px;
+}
+.duyme{
+    width: 400px;
+    height: 72px;
+    position: absolute;
+    left: 62px;
+    top: 521px;
+    
+}
+#fname{
+    width: 400px;
+    height: 45px;
+    box-sizing: border-box;
+    position: absolute;
+    color:  #C2C2C2;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    border: 0.625px solid #07043B;
+    box-shadow: 2px 3px 6px rgba(0, 0, 0, 0.15925);
+    border-radius: 3.125px;
+}
+#submit{
+    position: absolute;
+height: 45px;
+width: 200px;
+left: 416px;
+top: 0px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 16px;
+
+color: #FFFFFF;
+
+background: #2F65F8;
+box-shadow: 2px 3px 6px #2F65F8;
+border-radius: 3.125px;
+border-color: #2F65F8;
+
+
+}
